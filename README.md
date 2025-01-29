@@ -1,4 +1,4 @@
-# Customer-Cancellation
+# Customer Cancellation Data Analysis
 Data science and analytics project to reduce customer cancellations.
 
 Challenge:
