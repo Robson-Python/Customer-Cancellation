@@ -23,8 +23,8 @@ st.markdown("Precisando melhorar seus resultados ela quer conseguir entender os 
 
 # Mostrar o DataFrame
 st.subheader('Dados Originais')
-st.write(df_cancelamentos)
+st.dataframe(df_cancelamentos)
 
 # EDA Básica
 st.subheader("Estatísticas Descritivas")
-st.write(df_cancelamentos.describe())
+st.dataframe(df_cancelamentos.describe())
