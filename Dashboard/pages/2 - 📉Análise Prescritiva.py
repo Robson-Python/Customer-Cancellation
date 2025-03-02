@@ -63,3 +63,14 @@ def plot_histograms(df_previsao):
                     
 plot_histograms(df_previsao)
 
+# Testo análise prescritiva
+
+prescrisao_text = """ ---
+De acordo com a análise exploratória preliminar, a empresa começou com 56.7% de cancelamentos. 
+Com mais algumas análises exploratórias conseguimos reduzir para 53.9%. Visualizando através dos gráficos, 
+foi possível criar alguns cenários preditivos que nos resultou em uma taxa de 7.0% de cancelamentos.
+
+--- """
+
+# Exibir o testo
+st.markdown(prescrisao_text)

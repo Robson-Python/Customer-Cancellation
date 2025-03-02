@@ -62,3 +62,17 @@ def plot_histograms(df_modelo):
                     st.pyplot(fig)
                     
 plot_histograms(df_modelo)
+
+# Texto do modelo
+modelo_text = """
+Como os gráficos demonstram, é possível observar que na previsão dos novos clientes, as chances de cancelamento são muito menores agora.
+
+---
+Concluída uma análise aprofundada nos dados e com insights valiosos extraídos, aproveitamos esses insights 
+e aplicamos em um modelo de Inteligência Artificial IA, que é capaz ler essas novas informações e dizer 
+automaticamente a previsão de cancelamentos para a empresa como mostrado nos gráficos acima.
+
+--- """
+
+# Exibindo texto do modelo
+st.markdown(modelo_text)
