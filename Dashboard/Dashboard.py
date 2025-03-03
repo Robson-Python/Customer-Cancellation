@@ -22,9 +22,18 @@ st.markdown("Uma empresa com mais de 800 mil clientes, recentemente percebeu que
 st.markdown("Precisando melhorar seus resultados ela quer conseguir entender os principais motivos desses cancelamentos e quais as ações mais eficientes para reduzir esse número.")
 
 # Mostrar o DataFrame
-st.subheader('Dados Originais')
-st.dataframe(df_cancelamentos)
+st.subheader('Dados Originais (Primeiras 20 linhas)')
+st.dataframe(df_cancelamentos.head(20))
+
+# Usando shape para conferir as dimensões do dataframe
+df_tamanho = df_cancelamentos.shape
+st.write(f"Quantidade total de registros na base de dados: {df_tamanho}")
+st.write("---")
+st.write("A base de dados possuia 881666 e 12 colunas, com o tratamento dos dados conseguimos reduzir para 440832 linhas e 12")
+st.write("Na base original havia muitos registros ausentes e duplicdos")
+st.write("---")
 
 # EDA Básica
 st.subheader("Estatísticas Descritivas")
 st.dataframe(df_cancelamentos.describe())
+
