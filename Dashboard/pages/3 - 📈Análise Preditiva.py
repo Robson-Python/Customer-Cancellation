@@ -69,7 +69,7 @@ Como os gráficos demonstram, é possível observar que na previsão dos novos c
 
 ---
 Concluída uma análise aprofundada nos dados e com insights valiosos extraídos, aproveitamos esses insights 
-e aplicamos em um modelo de Inteligência Artificial IA, que é capaz ler essas novas informações e dizer 
+e aplicamos em um modelo de Inteligência Artificial IA, que é capaz de ler essas novas informações e dizer 
 automaticamente a previsão de cancelamentos para a empresa como mostrado nos gráficos acima.
 
 --- """
