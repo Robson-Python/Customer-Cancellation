@@ -6,7 +6,7 @@ idade,sexo,tempo_como_cliente,frequencia_uso,ligacoes_callcenter,dias_atraso,ass
 23.0,Masculino,32.0,20.0,5.0,8.0,Básico,Mensal,617.0,20.0,Sim
 51.0,Masculino,33.0,25.0,9.0,26.0,Prêmio,Anual,129.0,8.0,Sim
 58.0,Feminino,49.0,12.0,3.0,16.0,Padrão,Trimestral,821.0,24.0,Não
-55.0,Feminino,37.0,8.0,4.0,15.0,Prêmio,Anual,445.0,30.0,Sim
+55.0,Feminino,37.0,8.0,4.0,15.0,Prêmio,Anual,445.0,30.0,Não
 39.0,Masculino,12.0,5.0,7.0,4.0,Padrão,Trimestral,969.0,13.0,Sim
 64.0,Feminino,3.0,25.0,2.0,11.0,Padrão,Trimestral,415.0,29.0,Sim
 31.0,Masculino,4.0,22.0,2.0,14.0,Prêmio,Trimestral,910.59,18.0,Não
@@ -335,7 +335,7 @@ idade,sexo,tempo_como_cliente,frequencia_uso,ligacoes_callcenter,dias_atraso,ass
 35.0,Masculino,40.0,27.0,8.0,28.0,Prêmio,Mensal,232.0,17.0,Sim
 29.0,Masculino,43.0,12.0,2.0,10.0,Prêmio,Anual,289.0,6.0,Sim
 20.0,Masculino,37.0,24.0,7.0,5.0,Padrão,Anual,371.0,20.0,Sim
-63.0,Feminino,51.0,3.0,5.0,12.0,Padrão,Anual,288.0,15.0,Sim
+63.0,Feminino,51.0,3.0,5.0,12.0,Padrão,Anual,288.0,15.0,Não
 22.0,Feminino,39.0,8.0,2.0,4.0,Padrão,Anual,939.0,21.0,Não
 25.0,Feminino,53.0,2.0,10.0,13.0,Básico,Trimestral,336.0,13.0,Sim
 28.0,Masculino,24.0,24.0,8.0,6.0,Padrão,Mensal,572.0,28.0,Sim
